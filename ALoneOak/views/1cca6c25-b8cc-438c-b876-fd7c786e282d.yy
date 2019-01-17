@@ -1,0 +1,31 @@
+{
+    "id": "1cca6c25-b8cc-438c-b876-fd7c786e282d",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "1cca6c25-b8cc-438c-b876-fd7c786e282d",
+    "children": [
+        "32d03b1f-bd9e-4fb3-9723-52f72973f0b9",
+        "ed7d14e2-bbe9-4280-bffb-5c6f0b4254b4",
+        "5753151b-e823-4574-9b7e-f97ca0f22b0a",
+        "7775a958-db2d-41a3-b44d-f08a92e4ae40",
+        "6af57dfd-ea3a-40d6-9b05-8263350813c3",
+        "d15150b2-61df-45ab-9835-3812a562cf7b",
+        "5c67f36f-d13d-48e1-8f71-ee4f1c54be13",
+        "bc8d64f6-adee-453b-b059-4149b9d4b26c",
+        "7bb40ea7-9fb1-441c-a191-955995290b96",
+        "465587b5-3a58-4ac7-9738-85b227f84c3c",
+        "9d12c321-101d-4e73-b771-a22640e1e162",
+        "77504f1c-500f-443e-be23-065eac5623cb",
+        "849c0c8c-8b6c-49f0-abc0-94a9f0b64bd0",
+        "3971136c-1500-43af-8688-dd58c9ff7c05",
+        "382a0eb4-caa2-4a04-8740-0faa8f7de35c",
+        "09e59b05-a9fc-4736-8ee9-b937aee9d4b8",
+        "e473dc8a-6c45-4cfa-b2fb-ef60aaeb4bfa",
+        "1bfb3810-0a3e-47e1-8c36-0f05f2c6a2bc",
+        "1fb10907-082b-4b1b-a1ce-6386382b8040"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Mobs",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,2 @@
+global.storm = false;
+

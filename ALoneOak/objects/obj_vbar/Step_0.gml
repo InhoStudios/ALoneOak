@@ -1,0 +1,2 @@
+vari = a.percentage
+

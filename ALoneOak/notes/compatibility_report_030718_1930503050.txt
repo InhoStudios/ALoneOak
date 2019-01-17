@@ -1,0 +1,473 @@
+Converting GML script: ${project_dir}\scripts\create_world\create_world.gml
+Converted builtin - line 99: view_wview -> __view_get( e__VW.WView, 0 )
+Converted description /// @description create_world(topblock,bottomblock)/// @param topblock
+/// @param bottomblock
+
+Converting GML script: ${project_dir}\scripts\create_excess\create_excess.gml
+Converted builtin - line 9: view_wview -> __view_get( e__VW.WView, 0 )
+Converted description /// @description create_excess(start_x,start_y);/// @param start_x
+/// @param start_y
+
+Converting GML script: ${project_dir}\scripts\get_input\get_input.gml
+Converted description /// @description get_input();
+
+Converting GML script: ${project_dir}\scripts\treeDropItem\treeDropItem.gml
+Converted description /// @description treeDropItem();
+
+Converting GML script: ${project_dir}\scripts\create_particle\create_particle.gml
+Converted description /// @description create_particle(particle, min amount, max amount);/// @param particle
+/// @param  min amount
+/// @param  max amount
+
+Converting GML script: ${project_dir}\scripts\slot_increment\slot_increment.gml
+Converted description /// @description slot_increment
+
+Converting GML script: ${project_dir}\scripts\manageObjects\manageObjects.gml
+Converted builtin - line 35: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 46: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 36: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 47: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\scripts\mouseOver\mouseOver.gml
+Converted description /// @description mouseOver(startX, startY, width, height)/// @param startX
+/// @param  startY
+/// @param  width
+/// @param  height
+
+Converting GML script: ${project_dir}\scripts\drawInvSprite\drawInvSprite.gml
+Converted description /// @description drawInvSprite(i, itemId);/// @param i
+/// @param  itemId
+
+Converting GML script: ${project_dir}\scripts\clickSlot\clickSlot.gml
+Converted description /// @description clickSlot(i, itemId, fromCrate);/// @param i
+/// @param  itemId
+/// @param  fromCrate
+
+Converting GML script: ${project_dir}\scripts\releaseSlot\releaseSlot.gml
+Converted description /// @description releaseSlot(i, ID);/// @param i
+/// @param  ID
+
+Converting GML script: ${project_dir}\scripts\transferItem\transferItem.gml
+Converted description /// @description transferItem(i, itemId, spr passthrough);/// @param i
+/// @param  itemId
+/// @param  spr passthrough
+
+Converting GML script: ${project_dir}\scripts\drawName\drawName.gml
+Converted description /// @description drawName(i, ID);/// @param i
+/// @param  ID
+
+Converting GML script: ${project_dir}\scripts\nameToID\nameToID.gml
+Converted description /// @description nameToID(name);/// @param name
+
+Converting GML script: ${project_dir}\scripts\manage_crafting\manage_crafting.gml
+Converted builtin - line 175: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 176: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\scripts\mouse_over\mouse_over.gml
+Converted description /// @description mouse_over(startX, startY, width, height);/// @param startX
+/// @param  startY
+/// @param  width
+/// @param  height
+
+Converting GML script: ${project_dir}\scripts\create_item_stack\create_item_stack.gml
+Converted description /// @description create_item_stack(ID, value, x, y)/// @param ID
+/// @param  value
+/// @param  x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\manageCrateInv\manageCrateInv.gml
+Converted builtin - line 34: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 40: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 35: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 41: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\scripts\releaseCrateSlot\releaseCrateSlot.gml
+Converted description /// @description releaseSlot(i, ID);/// @param i
+/// @param  ID
+
+Converting GML script: ${project_dir}\scripts\transferCrateItem\transferCrateItem.gml
+Converted description /// @description transferItem(i, itemId, spr passthrough);/// @param i
+/// @param  itemId
+/// @param  spr passthrough
+
+Converting GML script: ${project_dir}\scripts\clickCrateSlot\clickCrateSlot.gml
+Converted description /// @description clickSlot(i, itemId);/// @param i
+/// @param  itemId
+
+Converting GML script: ${project_dir}\scripts\drawCrateInvSprite\drawCrateInvSprite.gml
+Converted description /// @description drawCrateInvSprite(i, itemId);/// @param i
+/// @param  itemId
+
+Converting GML script: ${project_dir}\scripts\addBackFromCrate\addBackFromCrate.gml
+Converted description /// @description addBackFromCrate(slot content, stackable, sprite, slot count)/// @param slot content
+/// @param  stackable
+/// @param  sprite
+/// @param  slot count
+
+Converting GML script: ${project_dir}\scripts\drawCrateName\drawCrateName.gml
+Converted description /// @description drawName(i, ID);/// @param i
+/// @param  ID
+
+Converting GML script: ${project_dir}\scripts\check_inventory_source\check_inventory_source.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 14: view_yview -> __view_get( e__VW.YView, 0 )
+Converted description /// @description check_inventory_source();
+
+Converting GML script: ${project_dir}\scripts\move_state\move_state.gml
+Converted description /// @description move_state(); Moves the player
+
+Converting GML script: ${project_dir}\scripts\attack_state\attack_state.gml
+Converted description /// @description attack_state();
+
+!!! Font fnt_normal uses a font (Calibri Light) not installed on this system - Font has NOT been regenerated
+!!! Font fnt_small uses a font (Calibri Light) not installed on this system - Font has NOT been regenerated
+Font fnt_tooltips has been converted to font family Calibri (Regular) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_8.gml
+Converted description /// @description  walk sound effect
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_7.gml
+Converted description /// @description  sanity regen timer
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_4.gml
+Converted description /// @description  hunger drop rate
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_3.gml
+Converted description /// @description temperature alarm
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_2.gml
+Converted description /// @description freezing counter
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_1.gml
+Converted description /// @description  use slot
+
+Converting GML script: ${project_dir}\objects\obj_player\Alarm_0.gml
+Converted description /// @description  hp regen
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted builtin - line 66: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 66: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_winter_tree\Alarm_0.gml
+Converted description /// @description drop counter
+
+Converting GML script: ${project_dir}\objects\obj_item\Step_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_stones\Step_0.gml
+Converted description /// @description 
+
+Converting GML script: ${project_dir}\objects\obj_torch\Alarm_0.gml
+Converted description /// @description click alarm;
+
+Converting GML script: ${project_dir}\objects\obj_crate\Alarm_0.gml
+Converted description /// @description click alarm;
+
+Converting GML script: ${project_dir}\objects\obj_crate\Mouse_4.gml
+Converted description /// @description 
+
+Converting GML script: ${project_dir}\objects\obj_fireplace\Alarm_0.gml
+Converted description /// @description click alarm;
+
+Converting GML script: ${project_dir}\objects\obj_herbs\Step_0.gml
+Converted description /// @description 
+
+Converting GML script: ${project_dir}\objects\obj_hooded_crate\Mouse_4.gml
+Converted description /// @description 
+
+Converting GML script: ${project_dir}\objects\obj_hooded_crate\Draw_73.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_hooded_crate\Draw_0.gml
+Converted builtin - line 11: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_grass\Alarm_0.gml
+Converted description /// @description gen rocks and herbs
+
+Converting GML script: ${project_dir}\objects\obj_zombie\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_zombie\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_zombie\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_zombie_boss\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_zombie_boss\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_zombie_boss\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_bear\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_bear\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_bear\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_mutant_bear\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_mutant_bear\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_mutant_bear\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_bear_boss\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_bear_boss\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_bear_boss\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_mutant_bear_boss\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_mutant_bear_boss\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_mutant_bear_boss\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_self_boss\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_self_boss\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_self_boss\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_wolf\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_wolf\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_wolf\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_mutant_wolf\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_mutant_wolf\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_mutant_wolf\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_wolf_boss\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_wolf_boss\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_wolf_boss\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_mutant_wolf_boss\Alarm_2.gml
+Converted description /// @description stall timer
+
+Converting GML script: ${project_dir}\objects\obj_mutant_wolf_boss\Alarm_1.gml
+Converted description /// @description Colourize Alarm
+
+Converting GML script: ${project_dir}\objects\obj_mutant_wolf_boss\Alarm_0.gml
+Converted description /// @description Knockback.
+
+Converting GML script: ${project_dir}\objects\obj_crow\Alarm_0.gml
+Converted description /// @description land timer
+
+Converting GML script: ${project_dir}\objects\obj_crow\Step_0.gml
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_mutant_crow\Step_0.gml
+Converted builtin - line 50: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 50: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 34: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 50: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_mutant_bird_boss\Step_0.gml
+Converted builtin - line 50: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 50: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 34: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 50: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_controls\Step_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_controls\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 3: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 5: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_bug\Step_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_bug\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_rain\Create_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_dn_cycle\Create_0.gml
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_dn_cycle\Alarm_1.gml
+Converted description /// @description night
+
+Converting GML script: ${project_dir}\objects\obj_dn_cycle\Alarm_0.gml
+Converted description /// @description day
+
+Converting GML script: ${project_dir}\objects\obj_dn_cycle\Draw_0.gml
+Converted builtin - line 37: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 43: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\inventory\Draw_73.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\inventory\Draw_0.gml
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\crafting\Draw_0.gml
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_particle_parent\Step_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_enemy_damage\Collision_e8e50a70-3212-4a7b-85c7-ccd769349308.gml
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_bg_controller\Step_0.gml
+Converted builtin - line 1: background_x[1] = view_xview/2 -> __background_set( e__BG.X, 1, view_xview/2 )
+Converted builtin - line 4: background_x[2] = view_xview/3 -> __background_set( e__BG.X, 2, view_xview/3 )
+Converted builtin - line 2: background_y[1] = view_yview/1.5 -> __background_set( e__BG.Y, 1, view_yview/1.5 )
+Converted builtin - line 5: background_y[2] = view_yview/2 -> __background_set( e__BG.Y, 2, view_yview/2 )
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_view_follow\Step_0.gml
+Converted builtin - line 21: background_y[1] = view_yview - 8 -> __background_set( e__BG.Y, 1, view_yview - 8 )
+Converted builtin - line 22: background_y[2] = view_yview - 4 -> __background_set( e__BG.Y, 2, view_yview - 4 )
+Converted builtin - line 18: background_hspeed[1] = -.01 -> __background_set( e__BG.HSpeed, 1, -.01 )
+Converted builtin - line 19: background_hspeed[2] = -.05 -> __background_set( e__BG.HSpeed, 2, -.05 )
+Converted builtin - line 15: view_xview = x - (view_wview/2) -> __view_set( e__VW.XView, 0, x - (view_wview/2) )
+Converted builtin - line 16: view_yview = y - (view_hview/2) -> __view_set( e__VW.YView, 0, y - (view_hview/2) )
+Converted builtin - line 21: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 16: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_view_follow\Other_4.gml
+Converted builtin - line 6: view_xview = x - (view_wview/2) -> __view_set( e__VW.XView, 0, x - (view_wview/2) )
+Converted builtin - line 7: view_yview = y - (view_hview/2) -> __view_set( e__VW.YView, 0, y - (view_hview/2) )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_hallucination_fade\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_hit_red\Step_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_low_hp\Step_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_left_right_craft_pages\Step_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_left_right_craft_pages\Draw_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\game\Step_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 38: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 38: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 38: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 38: view_hview -> __view_get( e__VW.HView, 0 )
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'snd_ts1' - setting to default audio group
+Missing audiogroup for sound: 'snd_ts2' - setting to default audio group
+Missing audiogroup for sound: 'snd_ts3' - setting to default audio group
+Missing audiogroup for sound: 'snd_main' - setting to default audio group
+Missing audiogroup for sound: 'snd_main_intro' - setting to default audio group
+Missing audiogroup for sound: 'snd_wind_blowing' - setting to default audio group
+Missing audiogroup for sound: 'snd_snow' - setting to default audio group
+Missing audiogroup for sound: 'snd_rain' - setting to default audio group
+Missing audiogroup for sound: 'snd_mouse_enter' - setting to default audio group
+Missing audiogroup for sound: 'snd_step' - setting to default audio group
+Game speed set to 90
+Added compatibility script 'action/action_set_cursor.gml'
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'

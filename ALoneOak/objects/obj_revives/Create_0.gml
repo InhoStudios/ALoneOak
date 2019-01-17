@@ -1,0 +1,2 @@
+global.revivecount = 0
+
