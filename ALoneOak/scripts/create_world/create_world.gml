@@ -12,6 +12,14 @@ if(global.loading == true){
      instance_create(pX,pY,obj_player);
      instance_create(pX,pY,obj_torch);
      
+	 with(game){
+		if(!file_exists(file_name)) exit
+		
+		ds_map_destroy(save_data);
+		save_data = ds_map_secure_load(file_name);
+		room_restart();
+	 }
+	 
      if(instance_exists(inventory)){
           with(inventory) instance_destroy();
      }
