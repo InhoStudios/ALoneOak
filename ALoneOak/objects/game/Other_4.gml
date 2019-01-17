@@ -2,7 +2,7 @@
 // You can write your code in this editor
 if(!working && global.loading){
 	var _grassKey = room_get_name(room)+"grass";
-	var _gStr = save_data[? _key];
+	var _gStr = save_data[? _grassKey];
 	
 	if(_gStr == undefined) exit;
 	
@@ -19,7 +19,7 @@ if(!working && global.loading){
 	ds_grid_destroy(_grass);
 	
 	var _stoneKey = room_get_name(room)+"stone";
-	var _sStr = save_data[? _key];
+	var _sStr = save_data[? _stoneKey];
 	
 	if(_sStr == undefined) exit;
 	
